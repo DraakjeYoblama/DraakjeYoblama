@@ -1,9 +1,10 @@
-# Hi there 👋, I'm Douwe
+# Hi there, I'm Douwe
 
 I'm an engineering student with an interest in many things software and hardware, as well as other kinds of (digital) creativity.
 
-- Pronouns: he/him, but anything is fine, I'm not picky
 - I speak Dutch (native) and English (C2 proficient)
+- I'm good at looking stuff up
+- Pronouns: he/him, but anything is fine, I'm not picky
 
 ## 🎓 Educational background
 I'm currently doing a Bachelor of Engineering Technology (Electronics and ICT Engineering) at KU Leuven, campus Group T
@@ -30,8 +31,6 @@ Here are some of the tools and technologies I've used:
 </p>
 
 As well as Verilog, MATLAB, Nunjucks and more
-
-And I'm good at looking stuff up
 
 ### IDEs & Development Tools
 
@@ -81,5 +80,6 @@ I occasionally use <img src="https://github.com/devicons/devicon/blob/master/ico
 
 ## 📫 Connect with Me
 
-- <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="20" height="20"/> LinkedIn: https://www.linkedin.com/in/douwe-somers-459392267/
+- <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="20" height="20"/> LinkedIn: [Douwe Somers](https://www.linkedin.com/in/douwe-somers-459392267/)
 - 📧 Email: draakjeyoblama@gmail.com
+- 🌐 Website: [draakjeyoblama.net](https://www.draakjeyoblama.net)
