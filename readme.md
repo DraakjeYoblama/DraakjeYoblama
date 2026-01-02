@@ -2,9 +2,9 @@
 
 I'm an engineering student with an interest in many things software and hardware, as well as other kinds of (digital) creativity.
 
-- 🎓 I'm currently doing a Bachelor of Engineering Technology (Electronics and ICT Engineering) at KU Leuven, campus Group T
-- 🇳🇱 🇬🇧 I speak Dutch (native) and English (C2 proficient)
-- 💻 I daily drive <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows 11" width="15" height="15" /> Windows 11 and <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android 15" width="15" height="15" /> Android 15. I occasionally use <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="macOS" width="15" height="15" /> macOS and <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" width="15" height="15" /> Ubuntu.
+- 🎓 I'm currently doing a Master of Electronics and ICT Engineering Technology at KU Leuven, campus Group T
+- 🇳🇱 🇬🇧 I speak Dutch (native) and English ([C2 proficient](https://cert.efset.org/TdLsAv))
+- 💻 I daily drive <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows 11" width="15" height="15" /> Windows 11 and <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android 15" width="15" height="15" /> Android. I occasionally use <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="macOS" width="15" height="15" /> macOS and <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" width="15" height="15" /> Ubuntu.
 - 🔎 I'm good at looking stuff up
 
 ### 📫 Connect with Me
